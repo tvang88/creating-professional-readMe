@@ -1,3 +1,5 @@
+To finish the challenge, I used a variety of google searches, MDN, and youtube videos. It is still not functioning and I am still working on getting it completed. 
+
 # 09 Node.js Challenge: Professional README Generator
 
 ## Your Task
