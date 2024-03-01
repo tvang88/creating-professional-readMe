@@ -1,4 +1,4 @@
-const licensesDetails = require('./Develop/utils/licensesDetails.js')
+const licensesDetails = require('./licensesDetails.js');
 
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
